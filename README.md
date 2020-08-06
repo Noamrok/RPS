@@ -7,4 +7,5 @@ Me and my friends developed this multiplyer game for android, we had a course in
 
 The files here are the core of the game and the backend server.
 
-![GitHub Logo](/Images/RPS_Screenshot_2020.07.28_17.09.55.png)
+![GitHub Logo](../Images/RPS_Screenshot_2020.07.28_17.09.55.jpg)
+![GitHub Logo](/Images/RPS_Screenshot_2020.07.28_17.09.55.jpg)
