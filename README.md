@@ -1,13 +1,14 @@
 # RPS
 A remake for the old ICQ PC game called "Rock-Paper-Scissors".
 
+My friends and I developed this multiplyer game for android, we had a course in Software Engineering and it was our project.
+
 The game was developed in Unity- C#.
 
 The backend was developed with ASP .NET EF and Web API, using SQL as DB. We uploaded the Web API and DB to Azure DevOps for cloud.
 
-My friends and I developed this multiplyer game for android, we had a course in Software Engineering and it was our project.
-
 Here are some Images from the game:
+
 *Disclaimer: We don't have any sense of graphical design, colors pallete and UX...
 
 ![Login](/Images/RPS_Screenshot_2020.07.28_17.09.55.jpg)
