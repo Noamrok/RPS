@@ -1,7 +1,7 @@
 # RPS
 A remake for the old ICQ PC game called "Rock-Paper-Scissors".
 
-My friends and I developed this multiplyer game for android in Software Engineering course.
+My friends and I developed this multiplayer game for android in Software Engineering course.
 
 The game was developed in Unity- C#.
 
