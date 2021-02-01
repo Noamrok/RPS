@@ -9,7 +9,7 @@ The backend was developed with ASP .NET EF and Web API, using SQL as DB. We uplo
 
 Here are some Images from the game:
 
-*Disclaimer: We don't have any sense of graphical design and color palettes.
+*Disclaimer: We are engineers not graphic designer ;)
 
 ![Login](/Images/RPS_Screenshot_2020.07.28_17.09.55.jpg)
 
